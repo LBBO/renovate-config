@@ -5,7 +5,8 @@
     "group:allNonMajor",
     ":reviewer(LBBO)",
     ":combinePatchMinorReleases",
-    ":rebaseStalePrs"
+    ":rebaseStalePrs",
+    ":disableDependencyDashboard"
   ],
   "minimumReleaseAge": "1 week",
   "packageRules": [
